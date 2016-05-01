@@ -1,7 +1,7 @@
 {
   "name": "night-citrus",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Contrasted and eye-friendly colorscheme, derived from Blackboard. Particularly adapted for python developers.",
   "keywords": [
     "syntax",
