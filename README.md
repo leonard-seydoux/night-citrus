@@ -11,7 +11,7 @@ Beautiful screenshot of the theme, while coding the `super-hello-world.py` progr
 # By the way
 
 Enjoy !
-And here's output of the code :) 
+Oh, and this is the output of the code :) 
 
 ```
 Message from Leonard received 29.087067 nano-seconds ago :Hello, world !
