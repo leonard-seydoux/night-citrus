@@ -3,4 +3,25 @@
 A contrasted and eye-friendly color scheme, derived from Blackboard.
 Particularly adapted for python developers.
 
-![Theme screenshot](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+# Screenshot
+Beautiful screenshot of the theme, while coding the `super-hello-world.py` program that shows most of the language's scope.
+
+![Theme screenshot](https://github.com/leonard-seydoux/night-citrus-syntax/blob/master/super-hello-world.png?raw=true)
+
+# By the way
+
+Enjoy !
+And here's output of the code :) 
+
+```
+Message from Leonard received 29.087067 nano-seconds ago :Hello, world !
+Message from Leonard received 93.936920 nano-seconds ago :Hello, world !
+Message from Leonard received 110.149384 nano-seconds ago :Hello, world !
+Message from Leonard received 118.970871 nano-seconds ago :Hello, world !
+Message from Leonard received 128.984451 nano-seconds ago :Hello, world !
+Message from Leonard received 137.090683 nano-seconds ago :Hello, world !
+Message from Leonard received 146.150589 nano-seconds ago :Hello, world !
+Message from Leonard received 154.018402 nano-seconds ago :Hello, world !
+Message from Leonard received 162.124634 nano-seconds ago :Hello, world !
+Message from Leonard received 173.091888 nano-seconds ago :Hello, world !
+```
